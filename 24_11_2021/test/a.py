@@ -1,0 +1,4 @@
+
+
+def s():
+    print("ttt")
